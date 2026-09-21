@@ -3,7 +3,8 @@
 ## Project Deck
 https://drive.google.com/file/d/1ErZxJuves5wOGGoEg1BYj4MtENemJXBk/view?usp=drivesdk
 
-I built this to solve an annoying problem: manually probing a PCB with a multimeter to find opens, shorts, or bad components takes forever and it's easy to miss things. Electroscan automates that process — it scans a board's test points, measures resistance and voltage at each one, and flags anything that doesn't match what's expected.
+A doctor can't cure a disease he can't identify — a PCB isn't any different. Electroscan is built on that instinct: know the fault before you touch the board.
+Manually probing a PCB with a multimeter to find opens, shorts, or bad components takes forever and it's easy to miss things. Electroscan automates that diagnosis — it scans a board's test points, measures resistance and voltage at each one, and flags anything that doesn't match what's expected.
 
 ## How it actually works (step by step)
 
